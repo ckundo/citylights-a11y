@@ -1,0 +1,11 @@
+{
+  "name": "playwright-a11y",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Cameron Cundiff <github@ckundo.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.37.0"
+  },
+  "scripts": {}
+}
